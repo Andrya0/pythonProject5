@@ -5,4 +5,3 @@ for i in range(1, 1000):
         ans.add(i)
 
 print(len(ans))
-print(ans)
